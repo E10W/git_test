@@ -1,1 +1,2 @@
 Hello world of Odin!
+Testing new config of commit messages!
